@@ -16,7 +16,7 @@ pipeline {
         REGISTRY = 'docker.io'
         DOCKERHUB_NAMESPACE = 'witslan'
         GITHUB_ACCOUNT = 'witslan'
-        APP_NAME = 'sonar-quebe'
+        APP_NAME = 'sample-sonar-token'
     }
 
     stages {
